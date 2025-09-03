@@ -507,6 +507,15 @@
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
+        },
+        {
+          "Id": "73c1d66f-50c0-407c-ad49-ccf04b9c6f9f",
+          "Name": "Workday",
+          "Image": "images/categories/vivalearning_learningpathways.png",
+          "TechnologyId": "b85344fd-bf36-4084-878d-b8abf4461658",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
         }
       ]
     },
