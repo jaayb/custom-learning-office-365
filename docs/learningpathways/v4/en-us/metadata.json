@@ -3,7 +3,32 @@
     {
       "Id": "b85344fd-bf36-4084-878d-b8abf4461658",
       "Name": "Workday",
-      "Subjects": []
+      "Subjects": [
+        {
+          "Id": "50487de7-b082-4d5f-a840-9d9891ef30c5",
+          "Name": "Human Capital Management"
+        },
+        {
+          "Id": "89f6e478-4c4d-42a8-862f-a9b164730a71",
+          "Name": "Finance"
+        },
+        {
+          "Id": "97abac3d-e9b9-4e1e-859b-2ebd52f5fcc4",
+          "Name": "Payroll"
+        },
+        {
+          "Id": "5c2e3822-2190-4d8e-82b9-3490e97e804d",
+          "Name": "Attendance"
+        },
+        {
+          "Id": "37fa3bec-4a2c-4b07-aff1-e3a342246e10",
+          "Name": "Talent"
+        },
+        {
+          "Id": "88c511c0-f14d-46eb-bbc6-3d506ff0437a",
+          "Name": "Reporting"
+        }
+      ]
     },
     {
       "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
