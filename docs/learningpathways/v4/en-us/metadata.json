@@ -511,7 +511,7 @@
         {
           "Id": "73c1d66f-50c0-407c-ad49-ccf04b9c6f9f",
           "Name": "Workday",
-          "Image": "images/categories/vivalearning_learningpathways.png",
+          "Image": "/sites/LearningCenter2/_api/siteiconmanager/getsitelogo?type='1'&hash=638924551645680438",
           "TechnologyId": "b85344fd-bf36-4084-878d-b8abf4461658",
           "SubjectId": "",
           "Source": "Microsoft",
